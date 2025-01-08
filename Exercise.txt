@@ -1,0 +1,5 @@
+GitHub is a platform for version control and collaboration. It allows developers to store and manage their code, track changes, and collaborate on projects.
+
+In the future, I can use GitHub to collaborate on open-source projects, share my code with others, and contribute to software development communities. GitHub will also help me manage version control in personal projects and work in teams.
+
+GitHub Inc. was founded in 2008 by Tom Preston-Werner, Chris Wanstrath, PJ Hyett, and Scott Chacon. The GitHub service became publicly available in April 2008.
